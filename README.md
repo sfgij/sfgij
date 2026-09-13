@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sfgij)
-Programmer and Scripter!
 
-Check my portfolio out at https://www.sfgij.com
+### Sfgij — Roblox developer and scripter
+
+I build and script Roblox games: simulators, horror, RPGs and tycoons.
+
+Portfolio: **https://www.sfgij.com**
