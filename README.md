@@ -1,2 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=sfgij)
-https://sfgij.cloud
+
+Programmer and Scripter!
+
+Check my portfolio out at https://www.sfgij.com
